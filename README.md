@@ -5,4 +5,14 @@ A repository to make sure i got this.
 None whatsoever
 
 ### link to deployment
-[ deployment ]
+[deployment](deployment.md)
+
+    
+    []: # Language: markdown
+    []: # Path: deployment.md
+    # deployment
+    This is a deployment page
+
+    ## technologies used
+    None whatsoever
+    
