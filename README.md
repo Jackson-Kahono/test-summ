@@ -11,3 +11,7 @@ None whatsoever
     -> complete project
     -> go home
 
+```
+bash
+project run
+```
