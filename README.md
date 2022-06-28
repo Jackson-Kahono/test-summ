@@ -7,12 +7,7 @@ None whatsoever
 ### link to deployment
 [deployment](deployment.md)
 
-    
-    []: # Language: markdown
-    []: # Path: deployment.md
-    # deployment
-    This is a deployment page
+    -> start project
+    -> complete project
+    -> go home
 
-    ## technologies used
-    None whatsoever
-    
